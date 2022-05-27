@@ -24,9 +24,9 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: 李瑞轩 # add your name
+author: "李瑞轩" # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: 做点有趣的事
+about-author: "做点有趣的事"
 
 # Contact links
 email: 2020132023@chd.edu.cn # Add your Email address
