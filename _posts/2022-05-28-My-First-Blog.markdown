@@ -3,12 +3,11 @@ layout: post
 read_time: true
 show_date: true
 title: “ My first blog ”
-date:   2022-05-28 
+date: 2022-05-28 
 description: “ The first one ”
 img: posts/20220528/001.jpg 
 tags: [life]
 author: Li ruixuan
-mathjax: yes
 ---
 
 ## New start
