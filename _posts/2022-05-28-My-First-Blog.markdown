@@ -2,22 +2,22 @@
 layout: post
 read_time: true
 show_date: true
-title:  我的第一篇博客
+title:  My first blog
 date:   2022-05-28 16:44:20 -0600
-description: 第一次发希望一次成功
+description: The first one
 img: posts/20220528/001.jpg 
-tags: [生活]
-author: 李瑞轩
+tags: [life]
+author: Li ruixuan
 lang: zh
 mathjax: yes
 ---
 
 ## 第一次、第一篇
-这是一个类似于“Hello world”的博客，简单但是是个开始。
+<!-- 这是一个类似于“Hello world”的博客，简单但是是个开始。
 之所以弄这个博客，是因为我觉得有一个自己的博客这件事挺有意思。完成这件事的难度。绝不很高，即使是对我这样一个小白来说。
-后续将会在这个博客上放一些我觉得有意思的东西，另一方面也记录一下自己认为重要的事，幸运的话这个博客的存在将会伴随我很久。不幸的话它过段时间就被我忘在身后。不论怎样，总归是某种意义上的“进步”。最后说一下我近期一直在想的一件事：勇士总冠军、库里FMVP！！！
-<tweet>Discipline is doing what you hate to do but do it like you love it.
-自律就是把你讨厌的事做得像你爱它一样。——Mike Tyson</tweet>
+后续将会在这个博客上放一些我觉得有意思的东西，另一方面也记录一下自己认为重要的事，幸运的话这个博客的存在将会伴随我很久。不幸的话它过段时间就被我忘在身后。不论怎样，总归是某种意义上的“进步”。最后说一下我近期一直在想的一件事：勇士总冠军、库里FMVP！！！-->
+<tweet>Discipline is doing what you hate to do but do it like you love it------Mike Tyson</tweet>
+It is my first blog.I want to post in Chinese but which could not work.Hope that i can fix this problem and post the real one.The last thing:I wish warriors can win the NBA championship and Curry win the FMVP title.
  <!--  插入超链接的方法[Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) -->
 <!--<center><img src='./assets/img/posts/20210125/Perceptron.png'></center> 插公式的方法-->
 <!-- <p style="text-align:center">\(<br>
