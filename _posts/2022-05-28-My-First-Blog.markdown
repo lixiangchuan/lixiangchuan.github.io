@@ -8,7 +8,6 @@ description: The first one
 img: posts/20220528/001.jpg 
 tags: [life]
 author: Li ruixuan
-lang: zh
 mathjax: yes
 ---
 
